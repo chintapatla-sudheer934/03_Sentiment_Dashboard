@@ -1,0 +1,1 @@
+# Social Media Sentiment Analysis Dashboard\n\nRun `streamlit run app.py`. CSV input must have a `text` column. Model downloads on first use.\n
